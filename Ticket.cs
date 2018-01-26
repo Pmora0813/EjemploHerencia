@@ -52,7 +52,6 @@ namespace EjemploHerencia
         //}
 
         public double Costo { get; set; }
-        asdadasdsadadadasgrgrg
         // calcula el monto de la comision        
         public decimal CalcularComision()
         {
